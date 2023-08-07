@@ -1,0 +1,2 @@
+# EngageAnalytica - The Chat Analysis 
+ A powerful Python-based Streamlit web application for analyzing WhatsApp group or individual chats, providing valuable insights such as top users, total emojis, media, links sent, and identifying the most active customers. Enables businesses to optimize engagement strategies and conduct specialized targeting, ultimately enhancing customer satisfaction and driving growth.
